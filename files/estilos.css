@@ -1,0 +1,83 @@
+#contenedor{
+background-color:#3498DB;
+clear: both;
+width:910px;
+}
+#encabezado{
+background-color:#789456;
+clear: both;
+width:900px;
+}
+#botones{
+background-color:#85C1E9;
+clear: both;
+width:900px;
+height:112px;
+font-size:20px;
+font-family:"cursiva";
+text-align:center;
+}
+#CUERPOS{
+background-color:#D6EAF8;
+font-family:arial";
+width:900px;
+clear: both;
+float:left;
+}
+#CUERPO1{
+background-color:#D6EAF8;
+font-size:10px;;
+width:450px;
+height:400px;
+float:left;
+text-align:center; 
+}
+
+#CUERPO2{
+background-color:#D6EAF8;
+font-size:25px;
+width:450px;
+height:400px;
+float:left;
+text-align:center; 
+}
+#pie{
+background-color:#5DADE2;
+color:#FFFFFF;
+clear: both;
+width:900px;
+font-size:12px;
+text-align:center; 
+}
+p{
+font-size:15px;
+font-family:"arial";
+text-align:center;
+color:#456654F;
+}
+
+#Cuerpo{
+text-align:center;
+}
+.button:hover {
+background-color: #52BE80;
+font-size:17px;
+}
+.button {background-color:#229954 ;
+ border: none;
+ color: white;
+ padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ margin: 4px 2px;
+ cursor: pointer;
+}
+}
+form{
+background-color:#465879;
+width:200px;
+height;200px;
+}
+
